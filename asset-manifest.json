@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/itc15-clothing-website/static/css/main.7484dbd2.chunk.css",
+    "main.js": "/itc15-clothing-website/static/js/main.0d2636e0.chunk.js",
+    "main.js.map": "/itc15-clothing-website/static/js/main.0d2636e0.chunk.js.map",
+    "runtime-main.js": "/itc15-clothing-website/static/js/runtime-main.21ee699a.js",
+    "runtime-main.js.map": "/itc15-clothing-website/static/js/runtime-main.21ee699a.js.map",
+    "static/js/2.034df046.chunk.js": "/itc15-clothing-website/static/js/2.034df046.chunk.js",
+    "static/js/2.034df046.chunk.js.map": "/itc15-clothing-website/static/js/2.034df046.chunk.js.map",
+    "index.html": "/itc15-clothing-website/index.html",
+    "precache-manifest.b85b7503c3b514a3dd83f277a6cf5cd9.js": "/itc15-clothing-website/precache-manifest.b85b7503c3b514a3dd83f277a6cf5cd9.js",
+    "service-worker.js": "/itc15-clothing-website/service-worker.js",
+    "static/css/main.7484dbd2.chunk.css.map": "/itc15-clothing-website/static/css/main.7484dbd2.chunk.css.map",
+    "static/js/2.034df046.chunk.js.LICENSE.txt": "/itc15-clothing-website/static/js/2.034df046.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21ee699a.js",
+    "static/js/2.034df046.chunk.js",
+    "static/css/main.7484dbd2.chunk.css",
+    "static/js/main.0d2636e0.chunk.js"
+  ]
+}
